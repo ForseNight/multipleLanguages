@@ -1,0 +1,6719 @@
+{
+  "langCode": [
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "abq",
+          "ГОСТ 7.75-97 (лат.)": "aba",
+          "ГОСТ 7.75-97 (кир.)": "аба",
+          "langNum": "5"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Абазинский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ab",
+          "ISO 639-2": "abk",
+          "ISO 639-3": "abk",
+          "ГОСТ 7.75-97 (лат.)": "abk",
+          "ГОСТ 7.75-97 (кир.)": "абх",
+          "langNum": "10"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Абхазский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "awa",
+          "ISO 639-3": "awa",
+          "ГОСТ 7.75-97 (лат.)": "awa",
+          "ГОСТ 7.75-97 (кир.)": "авд",
+          "langNum": "12"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Авадхи"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "av",
+          "ISO 639-2": "ava",
+          "ISO 639-3": "ava",
+          "ГОСТ 7.75-97 (лат.)": "ava",
+          "ГОСТ 7.75-97 (кир.)": "ава",
+          "langNum": "14"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Аварский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ae",
+          "ISO 639-2": "ave",
+          "ISO 639-3": "ave",
+          "ГОСТ 7.75-97 (лат.)": "ave",
+          "ГОСТ 7.75-97 (кир.)": "аве",
+          "langNum": "16"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Авестийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "ada",
+          "ISO 639-3": "ada",
+          "ГОСТ 7.75-97 (лат.)": "ada",
+          "ГОСТ 7.75-97 (кир.)": "ада",
+          "langNum": "18"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Адангме"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "ady",
+          "ISO 639-3": "ady",
+          "ГОСТ 7.75-97 (лат.)": "ady",
+          "ГОСТ 7.75-97 (кир.)": "ады",
+          "langNum": "20"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Адыгейский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "az",
+          "ISO 639-2": "aze",
+          "ISO 639-3": "aze",
+          "ГОСТ 7.75-97 (лат.)": "aze",
+          "ГОСТ 7.75-97 (кир.)": "азе",
+          "langNum": "25"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Азербайджанский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ay",
+          "ISO 639-2": "aym",
+          "ISO 639-3": "aym",
+          "ГОСТ 7.75-97 (лат.)": "aym",
+          "ГОСТ 7.75-97 (кир.)": "айм",
+          "langNum": "26"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Аймара"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "ain",
+          "ISO 639-3": "ain",
+          "ГОСТ 7.75-97 (лат.)": "—",
+          "ГОСТ 7.75-97 (кир.)": "—",
+          "langNum": "—"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Айну"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ak",
+          "ISO 639-2": "aka",
+          "ISO 639-3": "aka",
+          "ГОСТ 7.75-97 (лат.)": "aka",
+          "ГОСТ 7.75-97 (кир.)": "ака",
+          "langNum": "27"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Акан"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "akk",
+          "ISO 639-3": "akk",
+          "ГОСТ 7.75-97 (лат.)": "akk",
+          "ГОСТ 7.75-97 (кир.)": "акк",
+          "langNum": "28"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Аккадский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "sq",
+          "ISO 639-2": "alb/sqi",
+          "ISO 639-3": "sqi",
+          "ГОСТ 7.75-97 (лат.)": "alb/sqi",
+          "ГОСТ 7.75-97 (кир.)": "алб",
+          "langNum": "30"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Албанский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "ale",
+          "ISO 639-3": "ale",
+          "ГОСТ 7.75-97 (лат.)": "ale",
+          "ГОСТ 7.75-97 (кир.)": "але",
+          "langNum": "33"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Алеутский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "alt",
+          "ISO 639-3": "alt",
+          "ГОСТ 7.75-97 (лат.)": "alt",
+          "ГОСТ 7.75-97 (кир.)": "алт",
+          "langNum": "35"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Алтайский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "am",
+          "ISO 639-2": "amh",
+          "ISO 639-3": "amh",
+          "ГОСТ 7.75-97 (лат.)": "amh",
+          "ГОСТ 7.75-97 (кир.)": "амх",
+          "langNum": "40"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Амхарский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "en",
+          "ISO 639-2": "eng",
+          "ISO 639-3": "eng",
+          "ГОСТ 7.75-97 (лат.)": "eng",
+          "ГОСТ 7.75-97 (кир.)": "анг",
+          "langNum": "45"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Английский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ar",
+          "ISO 639-2": "ara",
+          "ISO 639-3": "ara",
+          "ГОСТ 7.75-97 (лат.)": "ara",
+          "ГОСТ 7.75-97 (кир.)": "ара",
+          "langNum": "50"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Арабский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "arw",
+          "ISO 639-3": "arw",
+          "ГОСТ 7.75-97 (лат.)": "arw",
+          "ГОСТ 7.75-97 (кир.)": "арв",
+          "langNum": "51"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Аравакский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "arc",
+          "ISO 639-3": "arc",
+          "ГОСТ 7.75-97 (лат.)": "—",
+          "ГОСТ 7.75-97 (кир.)": "арс",
+          "langNum": "52"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Арамейский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "arp",
+          "ISO 639-3": "arp",
+          "ГОСТ 7.75-97 (лат.)": "arp",
+          "ГОСТ 7.75-97 (кир.)": "арп",
+          "langNum": "53"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Арапахо"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "arn",
+          "ISO 639-3": "arn",
+          "ГОСТ 7.75-97 (лат.)": "arn",
+          "ГОСТ 7.75-97 (кир.)": "арн",
+          "langNum": "54"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Арауканский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "hy",
+          "ISO 639-2": "arm/hye",
+          "ISO 639-3": "hye/axm/xcl",
+          "ГОСТ 7.75-97 (лат.)": "arm/hye",
+          "ГОСТ 7.75-97 (кир.)": "арм",
+          "langNum": "55"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Армянский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "as",
+          "ISO 639-2": "asm",
+          "ISO 639-3": "asm",
+          "ГОСТ 7.75-97 (лат.)": "asm",
+          "ГОСТ 7.75-97 (кир.)": "аса",
+          "langNum": "60"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ассамский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "aii",
+          "ГОСТ 7.75-97 (лат.)": "ass",
+          "ГОСТ 7.75-97 (кир.)": "асс",
+          "langNum": "65"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ассирийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "ath",
+          "ГОСТ 7.75-97 (лат.)": "ath",
+          "ГОСТ 7.75-97 (кир.)": "ата",
+          "langNum": "67"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Атапачские"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "aa",
+          "ISO 639-2": "aar",
+          "ISO 639-3": "aar",
+          "ГОСТ 7.75-97 (лат.)": "aar",
+          "ГОСТ 7.75-97 (кир.)": "афа",
+          "langNum": "68"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Афарский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "af",
+          "ISO 639-2": "afr",
+          "ISO 639-3": "afr",
+          "ГОСТ 7.75-97 (лат.)": "afr",
+          "ГОСТ 7.75-97 (кир.)": "афр",
+          "langNum": "70"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Африкаанс"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "afh",
+          "ISO 639-3": "afh",
+          "ГОСТ 7.75-97 (лат.)": "afh",
+          "ГОСТ 7.75-97 (кир.)": "афх",
+          "langNum": "73"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Африхили"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "akv",
+          "ISO 639-3": "akv",
+          "ГОСТ 7.75-97 (лат.)": "akh",
+          "ГОСТ 7.75-97 (кир.)": "ахв",
+          "langNum": "74"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ахвахский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "nah",
+          "ГОСТ 7.75-97 (лат.)": "—",
+          "ГОСТ 7.75-97 (кир.)": "ацт",
+          "langNum": "75"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ацтекский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "ace",
+          "ISO 639-3": "ace",
+          "ГОСТ 7.75-97 (лат.)": "ace",
+          "ГОСТ 7.75-97 (кир.)": "аче",
+          "langNum": "76"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ачехский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "ach",
+          "ISO 639-3": "ach",
+          "ГОСТ 7.75-97 (лат.)": "ach",
+          "ГОСТ 7.75-97 (кир.)": "ачо",
+          "langNum": "77"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ачоли"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "ban",
+          "ISO 639-3": "ban",
+          "ГОСТ 7.75-97 (лат.)": "ban",
+          "ГОСТ 7.75-97 (кир.)": "бал",
+          "langNum": "78"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Балийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "bm",
+          "ISO 639-2": "bam",
+          "ISO 639-3": "bam",
+          "ГОСТ 7.75-97 (лат.)": "bam",
+          "ГОСТ 7.75-97 (кир.)": "бам",
+          "langNum": "80"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Бамбара"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "bad",
+          "ISO 639-3": "bad",
+          "ГОСТ 7.75-97 (лат.)": "bad",
+          "ГОСТ 7.75-97 (кир.)": "бан",
+          "langNum": "82"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Банда"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "bas",
+          "ISO 639-3": "bas",
+          "ГОСТ 7.75-97 (лат.)": "bas",
+          "ГОСТ 7.75-97 (кир.)": "бас",
+          "langNum": "84"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Баса"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "eu",
+          "ISO 639-2": "baq/eus",
+          "ISO 639-3": "eus",
+          "ГОСТ 7.75-97 (лат.)": "baq/eus",
+          "ГОСТ 7.75-97 (кир.)": "бак",
+          "langNum": "85"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Баскский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ba",
+          "ISO 639-2": "bak",
+          "ISO 639-3": "bak",
+          "ГОСТ 7.75-97 (лат.)": "bak",
+          "ГОСТ 7.75-97 (кир.)": "баш",
+          "langNum": "86"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Башкирский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "bej",
+          "ISO 639-3": "bej",
+          "ГОСТ 7.75-97 (лат.)": "bej",
+          "ГОСТ 7.75-97 (кир.)": "бед",
+          "langNum": "87"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Беджа"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "be",
+          "ISO 639-2": "bel",
+          "ISO 639-3": "bel",
+          "ГОСТ 7.75-97 (лат.)": "bel",
+          "ГОСТ 7.75-97 (кир.)": "бел",
+          "langNum": "90"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Белорусский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "bal",
+          "ISO 639-3": "bal",
+          "ГОСТ 7.75-97 (лат.)": "bal",
+          "ГОСТ 7.75-97 (кир.)": "беу",
+          "langNum": "95"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Белуджский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "bem",
+          "ISO 639-3": "bem",
+          "ГОСТ 7.75-97 (лат.)": "bem",
+          "ГОСТ 7.75-97 (кир.)": "бем",
+          "langNum": "97"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Бемба"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "bn",
+          "ISO 639-2": "ben",
+          "ISO 639-3": "ben",
+          "ГОСТ 7.75-97 (лат.)": "ben",
+          "ГОСТ 7.75-97 (кир.)": "бен",
+          "langNum": "100"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Бенгальский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "bik/ bcl",
+          "ISO 639-3": "bik",
+          "ГОСТ 7.75-97 (лат.)": "bik",
+          "ГОСТ 7.75-97 (кир.)": "бик",
+          "langNum": "103"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Бикольский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "bin",
+          "ISO 639-3": "bin",
+          "ГОСТ 7.75-97 (лат.)": "bin",
+          "ГОСТ 7.75-97 (кир.)": "бин",
+          "langNum": "104"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Бини"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "my",
+          "ISO 639-2": "bur/mya",
+          "ISO 639-3": "mya",
+          "ГОСТ 7.75-97 (лат.)": "bur/mya",
+          "ГОСТ 7.75-97 (кир.)": "бир",
+          "langNum": "105"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Бирманский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "bi",
+          "ISO 639-2": "bis",
+          "ISO 639-3": "bis",
+          "ГОСТ 7.75-97 (лат.)": "bis",
+          "ГОСТ 7.75-97 (кир.)": "бис",
+          "langNum": "107"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Бислама"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "bg",
+          "ISO 639-2": "bul",
+          "ISO 639-3": "bul",
+          "ГОСТ 7.75-97 (лат.)": "bul",
+          "ГОСТ 7.75-97 (кир.)": "бол",
+          "langNum": "115"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Болгарский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "bs",
+          "ISO 639-2": "bos",
+          "ISO 639-3": "bos",
+          "ГОСТ 7.75-97 (лат.)": "—",
+          "ГОСТ 7.75-97 (кир.)": "бос",
+          "langNum": "—"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Боснийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "brh",
+          "ГОСТ 7.75-97 (лат.)": "bra",
+          "ГОСТ 7.75-97 (кир.)": "бра",
+          "langNum": "117"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Брауи"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "br",
+          "ISO 639-2": "bre",
+          "ISO 639-3": "bre",
+          "ГОСТ 7.75-97 (лат.)": "bre",
+          "ГОСТ 7.75-97 (кир.)": "бре",
+          "langNum": "120"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Бретонский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "bug",
+          "ISO 639-3": "bug",
+          "ГОСТ 7.75-97 (лат.)": "bug",
+          "ГОСТ 7.75-97 (кир.)": "буг",
+          "langNum": "123"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Бугийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "bua",
+          "ISO 639-3": "bua",
+          "ГОСТ 7.75-97 (лат.)": "bua",
+          "ГОСТ 7.75-97 (кир.)": "бур",
+          "langNum": "125"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Бурятский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "bho",
+          "ISO 639-3": "bho",
+          "ГОСТ 7.75-97 (лат.)": "bho",
+          "ГОСТ 7.75-97 (кир.)": "бхо",
+          "langNum": "126"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Бходжпури"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "vai",
+          "ISO 639-3": "vai",
+          "ГОСТ 7.75-97 (лат.)": "vai",
+          "ГОСТ 7.75-97 (кир.)": "ваи",
+          "langNum": "127"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ваи"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "cy",
+          "ISO 639-2": "cym/wel",
+          "ISO 639-3": "cym",
+          "ГОСТ 7.75-97 (лат.)": "cym/wel",
+          "ГОСТ 7.75-97 (кир.)": "вал",
+          "langNum": "130"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Валлийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "war",
+          "ISO 639-3": "war",
+          "ГОСТ 7.75-97 (лат.)": "war",
+          "ГОСТ 7.75-97 (кир.)": "вар",
+          "langNum": "131"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Варай"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "was",
+          "ISO 639-3": "was",
+          "ГОСТ 7.75-97 (лат.)": "was",
+          "ГОСТ 7.75-97 (кир.)": "ваш",
+          "langNum": "132"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Вашо"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "hu",
+          "ISO 639-2": "hun",
+          "ISO 639-3": "hun",
+          "ГОСТ 7.75-97 (лат.)": "hun",
+          "ГОСТ 7.75-97 (кир.)": "вен",
+          "langNum": "133"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Венгерский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ve",
+          "ISO 639-2": "ven",
+          "ISO 639-3": "ven",
+          "ГОСТ 7.75-97 (лат.)": "ven",
+          "ГОСТ 7.75-97 (кир.)": "вед",
+          "langNum": "134"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Венда"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "vep",
+          "ГОСТ 7.75-97 (лат.)": "vep",
+          "ГОСТ 7.75-97 (кир.)": "веп",
+          "langNum": "135"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Вепсский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "wal",
+          "ISO 639-3": "wal",
+          "ГОСТ 7.75-97 (лат.)": "wal",
+          "ГОСТ 7.75-97 (кир.)": "воа",
+          "langNum": "136"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Воламо"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "vo",
+          "ISO 639-2": "vol",
+          "ISO 639-3": "vol",
+          "ГОСТ 7.75-97 (лат.)": "vol",
+          "ГОСТ 7.75-97 (кир.)": "вол",
+          "langNum": "137"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Волапюк"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "wo",
+          "ISO 639-2": "wol",
+          "ISO 639-3": "wol",
+          "ГОСТ 7.75-97 (лат.)": "wol",
+          "ГОСТ 7.75-97 (кир.)": "воф",
+          "langNum": "138"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Волоф"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "vi",
+          "ISO 639-2": "vie",
+          "ISO 639-3": "vie",
+          "ГОСТ 7.75-97 (лат.)": "vie",
+          "ГОСТ 7.75-97 (кир.)": "вье",
+          "langNum": "140"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Вьетнамский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "gaa",
+          "ISO 639-3": "gaa",
+          "ГОСТ 7.75-97 (лат.)": "gaa",
+          "ГОСТ 7.75-97 (кир.)": "гаа",
+          "langNum": "142"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Га"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "haw",
+          "ISO 639-3": "haw",
+          "ГОСТ 7.75-97 (лат.)": "haw",
+          "ГОСТ 7.75-97 (кир.)": "гав",
+          "langNum": "143"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Гавайский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "gag",
+          "ГОСТ 7.75-97 (лат.)": "gag",
+          "ГОСТ 7.75-97 (кир.)": "гаг",
+          "langNum": "145"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Гагаузский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "gay",
+          "ISO 639-3": "gay",
+          "ГОСТ 7.75-97 (лат.)": "gay",
+          "ГОСТ 7.75-97 (кир.)": "гай",
+          "langNum": "146"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Гайо"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "gl",
+          "ISO 639-2": "glg",
+          "ISO 639-3": "glg",
+          "ГОСТ 7.75-97 (лат.)": "glg",
+          "ГОСТ 7.75-97 (кир.)": "гал",
+          "langNum": "147"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Галисийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "lg",
+          "ISO 639-2": "lug",
+          "ISO 639-3": "lug",
+          "ГОСТ 7.75-97 (лат.)": "lug",
+          "ГОСТ 7.75-97 (кир.)": "ган",
+          "langNum": "148"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ганда"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "hz",
+          "ISO 639-2": "her",
+          "ISO 639-3": "her",
+          "ГОСТ 7.75-97 (лат.)": "her",
+          "ГОСТ 7.75-97 (кир.)": "гер",
+          "langNum": "149"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Гереро"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "gez",
+          "ISO 639-3": "gez",
+          "ГОСТ 7.75-97 (лат.)": "gez",
+          "ГОСТ 7.75-97 (кир.)": "гез",
+          "langNum": "151"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Геэз"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "gil",
+          "ISO 639-3": "gil",
+          "ГОСТ 7.75-97 (лат.)": "gil",
+          "ГОСТ 7.75-97 (кир.)": "гил",
+          "langNum": "152"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Гилбертский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "gon",
+          "ISO 639-3": "gon",
+          "ГОСТ 7.75-97 (лат.)": "gon",
+          "ГОСТ 7.75-97 (кир.)": "гон",
+          "langNum": "153"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Гонди"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "got",
+          "ISO 639-3": "got",
+          "ГОСТ 7.75-97 (лат.)": "got",
+          "ГОСТ 7.75-97 (кир.)": "гот",
+          "langNum": "154"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Готский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "grb",
+          "ISO 639-3": "grb",
+          "ГОСТ 7.75-97 (лат.)": "grb",
+          "ГОСТ 7.75-97 (кир.)": "грб",
+          "langNum": "155"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Гребо"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "kl",
+          "ISO 639-2": "kal",
+          "ISO 639-3": "kal",
+          "ГОСТ 7.75-97 (лат.)": "kal",
+          "ГОСТ 7.75-97 (кир.)": "эсм",
+          "langNum": "843"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Гренландский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "el",
+          "ISO 639-2": "ell/gre",
+          "ISO 639-3": "ell",
+          "ГОСТ 7.75-97 (лат.)": "ell/gre",
+          "ГОСТ 7.75-97 (кир.)": "гре",
+          "langNum": "157"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Греческий (новогреческий)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ka",
+          "ISO 639-2": "geo/kat",
+          "ISO 639-3": "kat",
+          "ГОСТ 7.75-97 (лат.)": "geo/kat",
+          "ГОСТ 7.75-97 (кир.)": "гру",
+          "langNum": "158"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Грузинский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "gn",
+          "ISO 639-2": "grn",
+          "ISO 639-3": "grn",
+          "ГОСТ 7.75-97 (лат.)": "grn",
+          "ГОСТ 7.75-97 (кир.)": "гуа",
+          "langNum": "160"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Гуарани"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "gu",
+          "ISO 639-2": "guj",
+          "ISO 639-3": "guj",
+          "ГОСТ 7.75-97 (лат.)": "guj",
+          "ГОСТ 7.75-97 (кир.)": "гуд",
+          "langNum": "165"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Гуджарати"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "gd",
+          "ISO 639-2": "gla",
+          "ISO 639-3": "gla",
+          "ГОСТ 7.75-97 (лат.)": "gae/gdh",
+          "ГОСТ 7.75-97 (кир.)": "гэл",
+          "langNum": "170"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Гэльский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "dak",
+          "ISO 639-3": "dak",
+          "ГОСТ 7.75-97 (лат.)": "dak",
+          "ГОСТ 7.75-97 (кир.)": "дак",
+          "langNum": "173"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Дакота"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "dar",
+          "ISO 639-3": "dar",
+          "ГОСТ 7.75-97 (лат.)": "dag",
+          "ГОСТ 7.75-97 (кир.)": "даг",
+          "langNum": "175"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Даргинский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "prs",
+          "ISO 639-3": "prs",
+          "ГОСТ 7.75-97 (лат.)": "—",
+          "ГОСТ 7.75-97 (кир.)": "—",
+          "langNum": "—"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Дари"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "da",
+          "ISO 639-2": "dan",
+          "ISO 639-3": "dan",
+          "ГОСТ 7.75-97 (лат.)": "dan",
+          "ГОСТ 7.75-97 (кир.)": "дат",
+          "langNum": "178"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Датский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "del",
+          "ISO 639-3": "del",
+          "ГОСТ 7.75-97 (лат.)": "del",
+          "ГОСТ 7.75-97 (кир.)": "дел",
+          "langNum": "179"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Делавэрский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "dz",
+          "ISO 639-2": "dzo",
+          "ISO 639-3": "dzo",
+          "ГОСТ 7.75-97 (лат.)": "dzo",
+          "ГОСТ 7.75-97 (кир.)": "дзо",
+          "langNum": "183"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Дзонг-кэ"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "dv",
+          "ISO 639-2": "div",
+          "ISO 639-3": "div",
+          "ГОСТ 7.75-97 (лат.)": "div",
+          "ГОСТ 7.75-97 (кир.)": "див",
+          "langNum": "180"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Дивехи (Мальдивский)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "din",
+          "ISO 639-3": "din",
+          "ГОСТ 7.75-97 (лат.)": "din",
+          "ГОСТ 7.75-97 (кир.)": "дин",
+          "langNum": "181"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Динка"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "dyu",
+          "ISO 639-3": "dyu",
+          "ГОСТ 7.75-97 (лат.)": "dyu",
+          "ГОСТ 7.75-97 (кир.)": "диу",
+          "langNum": "182"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Диула (Дьюла)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "doi",
+          "ISO 639-3": "doi",
+          "ГОСТ 7.75-97 (лат.)": "doi",
+          "ГОСТ 7.75-97 (кир.)": "дои",
+          "langNum": "184"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Догри"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "grc",
+          "ISO 639-3": "grc",
+          "ГОСТ 7.75-97 (лат.)": "grc",
+          "ГОСТ 7.75-97 (кир.)": "дрг",
+          "langNum": "186"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Древнегреческий"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "egy",
+          "ISO 639-3": "egy",
+          "ГОСТ 7.75-97 (лат.)": "egy",
+          "ГОСТ 7.75-97 (кир.)": "дре",
+          "langNum": "187"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Древнеегипетский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "rusa",
+          "ISO 639-2": "—",
+          "ISO 639-3": "orv",
+          "ГОСТ 7.75-97 (лат.)": "rua",
+          "ГОСТ 7.75-97 (кир.)": "дрр",
+          "langNum": "188"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Древнерусский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "osx",
+          "ГОСТ 7.75-97 (лат.)": "—",
+          "ГОСТ 7.75-97 (кир.)": "—",
+          "langNum": "—"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Древнесаксонский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "dua",
+          "ISO 639-3": "dua",
+          "ГОСТ 7.75-97 (лат.)": "dua",
+          "ГОСТ 7.75-97 (кир.)": "дуа",
+          "langNum": "190"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Дуала"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "dng",
+          "ГОСТ 7.75-97 (лат.)": "dun",
+          "ГОСТ 7.75-97 (кир.)": "дун",
+          "langNum": "191"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Дунганский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "jrb",
+          "ISO 639-3": "jrb",
+          "ГОСТ 7.75-97 (лат.)": "jrb",
+          "ГОСТ 7.75-97 (кир.)": "еар",
+          "langNum": "192"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Еврейско-арабский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "jpr",
+          "ISO 639-3": "jpr",
+          "ГОСТ 7.75-97 (лат.)": "jpr",
+          "ГОСТ 7.75-97 (кир.)": "епе",
+          "langNum": "193"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Еврейско-персидский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "zen",
+          "ISO 639-3": "zen",
+          "ГОСТ 7.75-97 (лат.)": "zen",
+          "ГОСТ 7.75-97 (кир.)": "зен",
+          "langNum": "194"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Зенагский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "zu",
+          "ISO 639-2": "zul",
+          "ISO 639-3": "zul",
+          "ГОСТ 7.75-97 (лат.)": "zul",
+          "ГОСТ 7.75-97 (кир.)": "зул",
+          "langNum": "195"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Зулу"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "zun",
+          "ISO 639-3": "zun",
+          "ГОСТ 7.75-97 (лат.)": "zun",
+          "ГОСТ 7.75-97 (кир.)": "зун",
+          "langNum": "196"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Зуньи"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "iba",
+          "ISO 639-3": "iba",
+          "ГОСТ 7.75-97 (лат.)": "iba",
+          "ГОСТ 7.75-97 (кир.)": "иба",
+          "langNum": "197"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ибанский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "he",
+          "ISO 639-2": "heb",
+          "ISO 639-3": "heb",
+          "ГОСТ 7.75-97 (лат.)": "heb",
+          "ГОСТ 7.75-97 (кир.)": "ивр",
+          "langNum": "198"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Иврит"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ig",
+          "ISO 639-2": "ibo",
+          "ISO 639-3": "ibo",
+          "ГОСТ 7.75-97 (лат.)": "ibo",
+          "ГОСТ 7.75-97 (кир.)": "ибо",
+          "langNum": "199"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Игбо"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "yi",
+          "ISO 639-2": "yid",
+          "ISO 639-3": "yid",
+          "ГОСТ 7.75-97 (лат.)": "yid",
+          "ГОСТ 7.75-97 (кир.)": "иди",
+          "langNum": "202"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Идиш"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "ilo",
+          "ISO 639-3": "ilo",
+          "ГОСТ 7.75-97 (лат.)": "ilo",
+          "ГОСТ 7.75-97 (кир.)": "ило",
+          "langNum": "203"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Илоко"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "inh",
+          "ISO 639-3": "inh",
+          "ГОСТ 7.75-97 (лат.)": "ing",
+          "ГОСТ 7.75-97 (кир.)": "инг",
+          "langNum": "205"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ингушский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "id",
+          "ISO 639-2": "ind",
+          "ISO 639-3": "ind",
+          "ГОСТ 7.75-97 (лат.)": "ind",
+          "ГОСТ 7.75-97 (кир.)": "инд",
+          "langNum": "210"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Индонезийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ia",
+          "ISO 639-2": "ina",
+          "ISO 639-3": "ina",
+          "ГОСТ 7.75-97 (лат.)": "ina",
+          "ГОСТ 7.75-97 (кир.)": "ина",
+          "langNum": "215"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Интерлингва"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ie",
+          "ISO 639-2": "ile",
+          "ISO 639-3": "ile",
+          "ГОСТ 7.75-97 (лат.)": "ile",
+          "ГОСТ 7.75-97 (кир.)": "ине",
+          "langNum": "216"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Интерлингве"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "iu",
+          "ISO 639-2": "iku",
+          "ISO 639-3": "iku",
+          "ГОСТ 7.75-97 (лат.)": "iku",
+          "ГОСТ 7.75-97 (кир.)": "инк",
+          "langNum": "217"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Инуктитут"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ik",
+          "ISO 639-2": "ipk",
+          "ISO 639-3": "ipk",
+          "ГОСТ 7.75-97 (лат.)": "ipk",
+          "ГОСТ 7.75-97 (кир.)": "инп",
+          "langNum": "218"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Инупиак"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ga",
+          "ISO 639-2": "gle",
+          "ISO 639-3": "gle",
+          "ГОСТ 7.75-97 (лат.)": "gai/iri",
+          "ГОСТ 7.75-97 (кир.)": "ирл",
+          "langNum": "220"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ирландский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "is",
+          "ISO 639-2": "ice/isl",
+          "ISO 639-3": "isl",
+          "ГОСТ 7.75-97 (лат.)": "ice/isl",
+          "ГОСТ 7.75-97 (кир.)": "исл",
+          "langNum": "225"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Исландский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "es",
+          "ISO 639-2": "esl/spa",
+          "ISO 639-3": "spa",
+          "ГОСТ 7.75-97 (лат.)": "esl/spa",
+          "ГОСТ 7.75-97 (кир.)": "исп",
+          "langNum": "230"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Испанский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "it",
+          "ISO 639-2": "ita",
+          "ISO 639-3": "ita",
+          "ГОСТ 7.75-97 (лат.)": "ita",
+          "ГОСТ 7.75-97 (кир.)": "ита",
+          "langNum": "235"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Итальянский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "itl",
+          "ГОСТ 7.75-97 (лат.)": "ite",
+          "ГОСТ 7.75-97 (кир.)": "ите",
+          "langNum": "240"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ительменский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "yo",
+          "ISO 639-2": "yor",
+          "ISO 639-3": "yor",
+          "ГОСТ 7.75-97 (лат.)": "yor",
+          "ГОСТ 7.75-97 (кир.)": "йор",
+          "langNum": "245"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Йоруба"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "kbd",
+          "ISO 639-3": "kbd",
+          "ГОСТ 7.75-97 (лат.)": "kad",
+          "ГОСТ 7.75-97 (кир.)": "каа",
+          "langNum": "250"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Кабардино-черкесский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "kab",
+          "ISO 639-3": "kab",
+          "ГОСТ 7.75-97 (лат.)": "kab",
+          "ГОСТ 7.75-97 (кир.)": "каб",
+          "langNum": "251"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Кабильский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "kaw",
+          "ISO 639-3": "kaw",
+          "ГОСТ 7.75-97 (лат.)": "kaw",
+          "ГОСТ 7.75-97 (кир.)": "каг",
+          "langNum": "252"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Кави"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "cad",
+          "ISO 639-3": "cad",
+          "ГОСТ 7.75-97 (лат.)": "cad",
+          "ГОСТ 7.75-97 (кир.)": "кад",
+          "langNum": "254"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Каддо"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "kk",
+          "ISO 639-2": "kaz",
+          "ISO 639-3": "kaz",
+          "ГОСТ 7.75-97 (лат.)": "kaz",
+          "ГОСТ 7.75-97 (кир.)": "каз",
+          "langNum": "255"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Казахский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "xal",
+          "ISO 639-3": "xal",
+          "ГОСТ 7.75-97 (лат.)": "kak",
+          "ГОСТ 7.75-97 (кир.)": "кал",
+          "langNum": "260"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Калмыцкий"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "kam",
+          "ISO 639-3": "kam",
+          "ГОСТ 7.75-97 (лат.)": "kam",
+          "ГОСТ 7.75-97 (кир.)": "кам",
+          "langNum": "263"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Камба"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "kn",
+          "ISO 639-2": "kan",
+          "ISO 639-3": "kan",
+          "ГОСТ 7.75-97 (лат.)": "kan",
+          "ГОСТ 7.75-97 (кир.)": "кан",
+          "langNum": "265"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Каннада"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "kr",
+          "ISO 639-2": "kau",
+          "ISO 639-3": "kau",
+          "ГОСТ 7.75-97 (лат.)": "kau",
+          "ГОСТ 7.75-97 (кир.)": "кау",
+          "langNum": "267"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Канури"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "kdr",
+          "ГОСТ 7.75-97 (лат.)": "kai",
+          "ГОСТ 7.75-97 (кир.)": "каи",
+          "langNum": "270"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Караимский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "kaa",
+          "ISO 639-3": "kaa",
+          "ГОСТ 7.75-97 (лат.)": "kaa",
+          "ГОСТ 7.75-97 (кир.)": "кап",
+          "langNum": "275"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Каракалпакский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "krc",
+          "ISO 639-3": "krc",
+          "ГОСТ 7.75-97 (лат.)": "kah",
+          "ГОСТ 7.75-97 (кир.)": "као",
+          "langNum": "280"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Карачаево-балкарский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "krl",
+          "ISO 639-3": "krl",
+          "ГОСТ 7.75-97 (лат.)": "kae",
+          "ГОСТ 7.75-97 (кир.)": "кас",
+          "langNum": "285"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Карельский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "car",
+          "ISO 639-3": "car",
+          "ГОСТ 7.75-97 (лат.)": "car",
+          "ГОСТ 7.75-97 (кир.)": "кар",
+          "langNum": "288"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Кариб"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ca",
+          "ISO 639-2": "cat",
+          "ISO 639-3": "cat",
+          "ГОСТ 7.75-97 (лат.)": "cat",
+          "ГОСТ 7.75-97 (кир.)": "кат",
+          "langNum": "290"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Каталанский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "kac",
+          "ISO 639-3": "kac",
+          "ГОСТ 7.75-97 (лат.)": "kac",
+          "ГОСТ 7.75-97 (кир.)": "кач",
+          "langNum": "293"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Качинский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ks",
+          "ISO 639-2": "kas",
+          "ISO 639-3": "kas",
+          "ГОСТ 7.75-97 (лат.)": "kas",
+          "ГОСТ 7.75-97 (кир.)": "каш",
+          "langNum": "294"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Кашмири"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "qu",
+          "ISO 639-2": "que",
+          "ISO 639-3": "que",
+          "ГОСТ 7.75-97 (лат.)": "que",
+          "ГОСТ 7.75-97 (кир.)": "кеч",
+          "langNum": "300"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Кечуа"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ki",
+          "ISO 639-2": "kik",
+          "ISO 639-3": "kik",
+          "ГОСТ 7.75-97 (лат.)": "kik",
+          "ГОСТ 7.75-97 (кир.)": "кик",
+          "langNum": "302"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Кикуйю"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "kj",
+          "ISO 639-2": "kua",
+          "ISO 639-3": "kua",
+          "ГОСТ 7.75-97 (лат.)": "kua",
+          "ГОСТ 7.75-97 (кир.)": "кия",
+          "langNum": "303"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Киньяма"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ky",
+          "ISO 639-2": "kir",
+          "ISO 639-3": "kir",
+          "ГОСТ 7.75-97 (лат.)": "kyr",
+          "ГОСТ 7.75-97 (кир.)": "кир/кыр",
+          "langNum": "305"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Киргизский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "zh",
+          "ISO 639-2": "chi/zho",
+          "ISO 639-3": "zho",
+          "ГОСТ 7.75-97 (лат.)": "chi/zho",
+          "ГОСТ 7.75-97 (кир.)": "кит",
+          "langNum": "315"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Китайский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "tlh",
+          "ISO 639-3": "tlh",
+          "ГОСТ 7.75-97 (лат.)": "—",
+          "ГОСТ 7.75-97 (кир.)": "—",
+          "langNum": "-"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Клингонский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "kv",
+          "ISO 639-2": "kom",
+          "ISO 639-3": "kom",
+          "ГОСТ 7.75-97 (лат.)": "kom",
+          "ГОСТ 7.75-97 (кир.)": "кои",
+          "langNum": "320"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Коми"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "koi",
+          "ГОСТ 7.75-97 (лат.)": "pem",
+          "ГОСТ 7.75-97 (кир.)": "ком",
+          "langNum": "325"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Коми-пермяцкий"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "kg",
+          "ISO 639-2": "kon",
+          "ISO 639-3": "kon",
+          "ГОСТ 7.75-97 (лат.)": "kon",
+          "ГОСТ 7.75-97 (кир.)": "кон",
+          "langNum": "326"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Конго"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "kok",
+          "ISO 639-3": "kok",
+          "ГОСТ 7.75-97 (лат.)": "kok",
+          "ГОСТ 7.75-97 (кир.)": "кок",
+          "langNum": "327"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Конкани"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "cop",
+          "ISO 639-3": "cop",
+          "ГОСТ 7.75-97 (лат.)": "cop",
+          "ГОСТ 7.75-97 (кир.)": "коп",
+          "langNum": "328"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Коптский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ko",
+          "ISO 639-2": "kor",
+          "ISO 639-3": "kor",
+          "ГОСТ 7.75-97 (лат.)": "kor",
+          "ГОСТ 7.75-97 (кир.)": "коо",
+          "langNum": "330"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Корейский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "kw",
+          "ISO 639-2": "cor",
+          "ISO 639-3": "cor",
+          "ГОСТ 7.75-97 (лат.)": "cor",
+          "ГОСТ 7.75-97 (кир.)": "кор",
+          "langNum": "332"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Корнский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "co",
+          "ISO 639-2": "cos",
+          "ISO 639-3": "cos",
+          "ГОСТ 7.75-97 (лат.)": "cos",
+          "ГОСТ 7.75-97 (кир.)": "кос",
+          "langNum": "334"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Корсиканский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "kpy",
+          "ГОСТ 7.75-97 (лат.)": "koy",
+          "ГОСТ 7.75-97 (кир.)": "коя",
+          "langNum": "335"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Корякский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "xh",
+          "ISO 639-2": "xho",
+          "ISO 639-3": "xho",
+          "ГОСТ 7.75-97 (лат.)": "xho",
+          "ГОСТ 7.75-97 (кир.)": "коа",
+          "langNum": "340"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Коса"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "kpe",
+          "ISO 639-3": "kpe",
+          "ГОСТ 7.75-97 (лат.)": "kpe",
+          "ГОСТ 7.75-97 (кир.)": "кпе",
+          "langNum": "341"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Кпелле"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "mus",
+          "ISO 639-3": "mus",
+          "ГОСТ 7.75-97 (лат.)": "mus",
+          "ГОСТ 7.75-97 (кир.)": "крк",
+          "langNum": "344"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Крик"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "crh",
+          "ISO 639-3": "crh",
+          "ГОСТ 7.75-97 (лат.)": "cri",
+          "ГОСТ 7.75-97 (кир.)": "кры",
+          "langNum": "347"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Крымскотатарский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "kum",
+          "ISO 639-3": "kum",
+          "ГОСТ 7.75-97 (лат.)": "kum",
+          "ГОСТ 7.75-97 (кир.)": "кум",
+          "langNum": "349"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Кумыкский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ku",
+          "ISO 639-2": "kur",
+          "ISO 639-3": "kur",
+          "ГОСТ 7.75-97 (лат.)": "kur",
+          "ГОСТ 7.75-97 (кир.)": "кур",
+          "langNum": "350"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Курдский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "kru",
+          "ISO 639-3": "kru",
+          "ГОСТ 7.75-97 (лат.)": "kru",
+          "ГОСТ 7.75-97 (кир.)": "куу",
+          "langNum": "352"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Курух"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "kos",
+          "ISO 639-3": "kos",
+          "ГОСТ 7.75-97 (лат.)": "kus",
+          "ГОСТ 7.75-97 (кир.)": "кус",
+          "langNum": "353"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Кусайе"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "kut",
+          "ISO 639-3": "kut",
+          "ГОСТ 7.75-97 (лат.)": "kut",
+          "ГОСТ 7.75-97 (кир.)": "кут",
+          "langNum": "354"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Кутенай"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "kha",
+          "ISO 639-3": "kha",
+          "ГОСТ 7.75-97 (лат.)": "kha",
+          "ГОСТ 7.75-97 (кир.)": "кха",
+          "langNum": "357"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Кхаси"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "km",
+          "ISO 639-2": "khm",
+          "ISO 639-3": "khm",
+          "ГОСТ 7.75-97 (лат.)": "khm",
+          "ГОСТ 7.75-97 (кир.)": "кхм",
+          "langNum": "360"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Кхмерский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "lad",
+          "ISO 639-3": "lad",
+          "ГОСТ 7.75-97 (лат.)": "lad",
+          "ГОСТ 7.75-97 (кир.)": "лад",
+          "langNum": "363"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ладино"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "lbe",
+          "ГОСТ 7.75-97 (лат.)": "lak",
+          "ГОСТ 7.75-97 (кир.)": "лак",
+          "langNum": "370"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Лакский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "lam",
+          "ISO 639-3": "lam",
+          "ГОСТ 7.75-97 (лат.)": "lam",
+          "ГОСТ 7.75-97 (кир.)": "лам",
+          "langNum": "373"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ламба"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "lo",
+          "ISO 639-2": "lao",
+          "ISO 639-3": "lao",
+          "ГОСТ 7.75-97 (лат.)": "lao",
+          "ГОСТ 7.75-97 (кир.)": "лао",
+          "langNum": "375"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Лаосский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "la",
+          "ISO 639-2": "lat",
+          "ISO 639-3": "lat",
+          "ГОСТ 7.75-97 (лат.)": "lat",
+          "ГОСТ 7.75-97 (кир.)": "лат",
+          "langNum": "380"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Латинский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "lv",
+          "ISO 639-2": "lav",
+          "ISO 639-3": "lav",
+          "ГОСТ 7.75-97 (лат.)": "lav",
+          "ГОСТ 7.75-97 (кир.)": "лаш",
+          "langNum": "385"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Латышский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "lah",
+          "ISO 639-3": "lah",
+          "ГОСТ 7.75-97 (лат.)": "lah",
+          "ГОСТ 7.75-97 (кир.)": "лах",
+          "langNum": "387"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Лахнда"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "lez",
+          "ISO 639-3": "lez",
+          "ГОСТ 7.75-97 (лат.)": "lez",
+          "ГОСТ 7.75-97 (кир.)": "лез",
+          "langNum": "390"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Лезгинский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ln",
+          "ISO 639-2": "lin",
+          "ISO 639-3": "lin",
+          "ГОСТ 7.75-97 (лат.)": "lin",
+          "ГОСТ 7.75-97 (кир.)": "лин",
+          "langNum": "395"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Лингала"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "lt",
+          "ISO 639-2": "lit",
+          "ISO 639-3": "lit",
+          "ГОСТ 7.75-97 (лат.)": "lit",
+          "ГОСТ 7.75-97 (кир.)": "лит",
+          "langNum": "400"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Литовский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "loz",
+          "ISO 639-3": "loz",
+          "ГОСТ 7.75-97 (лат.)": "loz",
+          "ГОСТ 7.75-97 (кир.)": "лоз",
+          "langNum": "402"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Лози"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "lu",
+          "ISO 639-2": "lub",
+          "ISO 639-3": "lub",
+          "ГОСТ 7.75-97 (лат.)": "lub",
+          "ГОСТ 7.75-97 (кир.)": "луб",
+          "langNum": "404"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Луба-катанга"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "lui",
+          "ISO 639-3": "lui",
+          "ГОСТ 7.75-97 (лат.)": "lui",
+          "ГОСТ 7.75-97 (кир.)": "луи",
+          "langNum": "406"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Луисеньо"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "lun",
+          "ISO 639-3": "lun",
+          "ГОСТ 7.75-97 (лат.)": "lun",
+          "ГОСТ 7.75-97 (кир.)": "лун",
+          "langNum": "407"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Лунда"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "luo",
+          "ISO 639-3": "luo",
+          "ГОСТ 7.75-97 (лат.)": "luo",
+          "ГОСТ 7.75-97 (кир.)": "луо",
+          "langNum": "408"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Луо"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "lb",
+          "ISO 639-2": "ltz",
+          "ISO 639-3": "ltz",
+          "ГОСТ 7.75-97 (лат.)": "ltz",
+          "ГОСТ 7.75-97 (кир.)": "люк",
+          "langNum": "409"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Люксембургский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "mag",
+          "ISO 639-3": "mag",
+          "ГОСТ 7.75-97 (лат.)": "mag",
+          "ГОСТ 7.75-97 (кир.)": "маг",
+          "langNum": "410"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Магахи"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "mad",
+          "ISO 639-3": "mad",
+          "ГОСТ 7.75-97 (лат.)": "mad",
+          "ГОСТ 7.75-97 (кир.)": "мад",
+          "langNum": "411"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Мадурский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "mai",
+          "ISO 639-3": "mai",
+          "ГОСТ 7.75-97 (лат.)": "mai",
+          "ГОСТ 7.75-97 (кир.)": "май",
+          "langNum": "412"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Майтхили"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "mak",
+          "ISO 639-3": "mak",
+          "ГОСТ 7.75-97 (лат.)": "mak",
+          "ГОСТ 7.75-97 (кир.)": "мак",
+          "langNum": "414"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Макассарский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "mk",
+          "ISO 639-2": "mac/mkd",
+          "ISO 639-3": "mkd",
+          "ГОСТ 7.75-97 (лат.)": "mac/mke",
+          "ГОСТ 7.75-97 (кир.)": "маа",
+          "langNum": "415"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Македонский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "mg",
+          "ISO 639-2": "mlg",
+          "ISO 639-3": "mlg",
+          "ГОСТ 7.75-97 (лат.)": "mlg",
+          "ГОСТ 7.75-97 (кир.)": "млг",
+          "langNum": "418"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Малагасийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ms",
+          "ISO 639-2": "may/msa",
+          "ISO 639-3": "msa",
+          "ГОСТ 7.75-97 (лат.)": "may/msa",
+          "ГОСТ 7.75-97 (кир.)": "маз",
+          "langNum": "420"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Малайский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ml",
+          "ISO 639-2": "mal",
+          "ISO 639-3": "mal",
+          "ГОСТ 7.75-97 (лат.)": "mal",
+          "ГОСТ 7.75-97 (кир.)": "мал",
+          "langNum": "425"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Малаялам"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "mt",
+          "ISO 639-2": "mlt",
+          "ISO 639-3": "mlt",
+          "ГОСТ 7.75-97 (лат.)": "mlt",
+          "ГОСТ 7.75-97 (кир.)": "млт",
+          "langNum": "430"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Мальтийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "man",
+          "ISO 639-3": "man",
+          "ГОСТ 7.75-97 (лат.)": "man",
+          "ГОСТ 7.75-97 (кир.)": "маи",
+          "langNum": "432"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Мандинго"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "mni",
+          "ISO 639-3": "mni",
+          "ГОСТ 7.75-97 (лат.)": "mni",
+          "ГОСТ 7.75-97 (кир.)": "мни",
+          "langNum": "433"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Манипури"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "mns",
+          "ГОСТ 7.75-97 (лат.)": "vog",
+          "ГОСТ 7.75-97 (кир.)": "ман",
+          "langNum": "435"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Мансийский (Вогульский)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "mi",
+          "ISO 639-2": "mao/mri",
+          "ISO 639-3": "mri",
+          "ГОСТ 7.75-97 (лат.)": "mao/mri",
+          "ГОСТ 7.75-97 (кир.)": "мао",
+          "langNum": "437"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Маори"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "mr",
+          "ISO 639-2": "mar",
+          "ISO 639-3": "mar",
+          "ГОСТ 7.75-97 (лат.)": "mar",
+          "ГОСТ 7.75-97 (кир.)": "мар",
+          "langNum": "440"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Маратхи"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "mwr",
+          "ISO 639-3": "mwr",
+          "ГОСТ 7.75-97 (лат.)": "mwr",
+          "ГОСТ 7.75-97 (кир.)": "мвр",
+          "langNum": "443"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Марвари"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "chm",
+          "ISO 639-3": "chm",
+          "ГОСТ 7.75-97 (лат.)": "chm",
+          "ГОСТ 7.75-97 (кир.)": "мач",
+          "langNum": "445"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Марийский (черемисский)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "mh",
+          "ISO 639-2": "mah",
+          "ISO 639-3": "mah",
+          "ГОСТ 7.75-97 (лат.)": "mah",
+          "ГОСТ 7.75-97 (кир.)": "маш",
+          "langNum": "446"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Маршалльский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "mas",
+          "ISO 639-3": "mas",
+          "ГОСТ 7.75-97 (лат.)": "mas",
+          "ГОСТ 7.75-97 (кир.)": "мас",
+          "langNum": "447"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Масаи"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "men",
+          "ISO 639-3": "men",
+          "ГОСТ 7.75-97 (лат.)": "men",
+          "ГОСТ 7.75-97 (кир.)": "мен",
+          "langNum": "451"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Менде"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "me",
+          "ISO 639-2": "mer",
+          "ISO 639-3": "mer",
+          "ГОСТ 7.75-97 (лат.)": "—",
+          "ГОСТ 7.75-97 (кир.)": "мер",
+          "langNum": "—"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Мерянский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "mic",
+          "ISO 639-3": "mic",
+          "ГОСТ 7.75-97 (лат.)": "mic",
+          "ГОСТ 7.75-97 (кир.)": "мик",
+          "langNum": "452"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Микмак"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "min",
+          "ISO 639-3": "min",
+          "ГОСТ 7.75-97 (лат.)": "min",
+          "ГОСТ 7.75-97 (кир.)": "мин",
+          "langNum": "453"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Минангкабау"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "mdf",
+          "ISO 639-3": "mdf",
+          "ГОСТ 7.75-97 (лат.)": "mok",
+          "ГОСТ 7.75-97 (кир.)": "мок",
+          "langNum": "455"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Мокшанский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "mo",
+          "ISO 639-2": "mol",
+          "ISO 639-3": "mol",
+          "ГОСТ 7.75-97 (лат.)": "mol",
+          "ГОСТ 7.75-97 (кир.)": "мол",
+          "langNum": "460"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Молдавский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "lol",
+          "ISO 639-3": "lol",
+          "ГОСТ 7.75-97 (лат.)": "lol",
+          "ГОСТ 7.75-97 (кир.)": "мог",
+          "langNum": "462"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Монго"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "mn",
+          "ISO 639-2": "mon",
+          "ISO 639-3": "mon",
+          "ГОСТ 7.75-97 (лат.)": "mon",
+          "ГОСТ 7.75-97 (кир.)": "мон",
+          "langNum": "463"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Монгольский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "mos",
+          "ISO 639-3": "mos",
+          "ГОСТ 7.75-97 (лат.)": "mos",
+          "ГОСТ 7.75-97 (кир.)": "мос",
+          "langNum": "466"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Мооре"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "moh",
+          "ISO 639-3": "moh",
+          "ГОСТ 7.75-97 (лат.)": "moh",
+          "ГОСТ 7.75-97 (кир.)": "мох",
+          "langNum": "467"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Мохаук"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "gv",
+          "ISO 639-2": "glv",
+          "ISO 639-3": "glv",
+          "ГОСТ 7.75-97 (лат.)": "max",
+          "ГОСТ 7.75-97 (кир.)": "мэн",
+          "langNum": "469"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Мэнский (Мэнкский)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "nv",
+          "ISO 639-2": "nav",
+          "ISO 639-3": "nav",
+          "ГОСТ 7.75-97 (лат.)": "nav",
+          "ГОСТ 7.75-97 (кир.)": "нав",
+          "langNum": "470"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Навахо"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "gld",
+          "ГОСТ 7.75-97 (лат.)": "—",
+          "ГОСТ 7.75-97 (кир.)": "нан",
+          "langNum": "471"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Нанайский (гольдский)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "na",
+          "ISO 639-2": "nau",
+          "ISO 639-3": "nau",
+          "ГОСТ 7.75-97 (лат.)": "nau",
+          "ГОСТ 7.75-97 (кир.)": "нау",
+          "langNum": "472"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Науру"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "nd",
+          "ISO 639-2": "nde",
+          "ISO 639-3": "nde",
+          "ГОСТ 7.75-97 (лат.)": "nde",
+          "ГОСТ 7.75-97 (кир.)": "нде",
+          "langNum": "473"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ндебеле северный"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "nr",
+          "ISO 639-2": "nbl",
+          "ISO 639-3": "nbl",
+          "ГОСТ 7.75-97 (лат.)": "nbl",
+          "ГОСТ 7.75-97 (кир.)": "нбл",
+          "langNum": "474"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ндебеле южный"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ng",
+          "ISO 639-2": "ndo",
+          "ISO 639-3": "ndo",
+          "ГОСТ 7.75-97 (лат.)": "ndo",
+          "ГОСТ 7.75-97 (кир.)": "нду",
+          "langNum": "475"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ндунга"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "new",
+          "ISO 639-3": "new",
+          "ГОСТ 7.75-97 (лат.)": "new",
+          "ГОСТ 7.75-97 (кир.)": "нев",
+          "langNum": "478"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Неварский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "und",
+          "ISO 639-3": "und",
+          "ГОСТ 7.75-97 (лат.)": "und",
+          "ГОСТ 7.75-97 (кир.)": "унд",
+          "langNum": "480"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Неидентифицированный"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "de",
+          "ISO 639-2": "deu/ger",
+          "ISO 639-3": "deu",
+          "ГОСТ 7.75-97 (лат.)": "deu/ger",
+          "ГОСТ 7.75-97 (кир.)": "нем",
+          "langNum": "481"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Немецкий"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "yrk",
+          "ГОСТ 7.75-97 (лат.)": "yur",
+          "ГОСТ 7.75-97 (кир.)": "нен",
+          "langNum": "482"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ненецкий (юрако-самоедский)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ne",
+          "ISO 639-2": "nep",
+          "ISO 639-3": "nep",
+          "ГОСТ 7.75-97 (лат.)": "nep",
+          "ГОСТ 7.75-97 (кир.)": "неп",
+          "langNum": "485"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Непальский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "nzi",
+          "ISO 639-3": "nzi",
+          "ГОСТ 7.75-97 (лат.)": "nzi",
+          "ГОСТ 7.75-97 (кир.)": "нзи",
+          "langNum": "487"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Нзима"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "niv",
+          "ГОСТ 7.75-97 (лат.)": "giy",
+          "ГОСТ 7.75-97 (кир.)": "нив",
+          "langNum": "490"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Нивхский (гиляцкий)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "nl",
+          "ISO 639-2": "dut/nld",
+          "ISO 639-3": "nld",
+          "ГОСТ 7.75-97 (лат.)": "dut/ndl",
+          "ГОСТ 7.75-97 (кир.)": "нид",
+          "langNum": "495"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Нидерландский (Голландский)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "dum",
+          "ISO 639-3": "dum",
+          "ГОСТ 7.75-97 (лат.)": "dum",
+          "ГОСТ 7.75-97 (кир.)": "нис",
+          "langNum": "496"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Нидерландский средневековый"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "niu",
+          "ISO 639-3": "niu",
+          "ГОСТ 7.75-97 (лат.)": "niu",
+          "ГОСТ 7.75-97 (кир.)": "ниу",
+          "langNum": "498"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ниуэ"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "nog",
+          "ISO 639-3": "nog",
+          "ГОСТ 7.75-97 (лат.)": "nog",
+          "ГОСТ 7.75-97 (кир.)": "ног",
+          "langNum": "505"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ногайский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "no",
+          "ISO 639-2": "nor",
+          "ISO 639-3": "nor",
+          "ГОСТ 7.75-97 (лат.)": "nor",
+          "ГОСТ 7.75-97 (кир.)": "нор",
+          "langNum": "506"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Норвежский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "nyo",
+          "ISO 639-3": "nyo",
+          "ГОСТ 7.75-97 (лат.)": "nyo",
+          "ГОСТ 7.75-97 (кир.)": "ньо",
+          "langNum": "508"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ньоро"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "nym",
+          "ISO 639-3": "nym",
+          "ГОСТ 7.75-97 (лат.)": "nym",
+          "ГОСТ 7.75-97 (кир.)": "ням",
+          "langNum": "509"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ньямвези"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ny",
+          "ISO 639-2": "nya",
+          "ISO 639-3": "nya",
+          "ГОСТ 7.75-97 (лат.)": "nya",
+          "ГОСТ 7.75-97 (кир.)": "нян",
+          "langNum": "510"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ньянджа"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "nyn",
+          "ISO 639-3": "nyn",
+          "ГОСТ 7.75-97 (лат.)": "nyn",
+          "ГОСТ 7.75-97 (кир.)": "нья",
+          "langNum": "512"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ньянколе"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "nn",
+          "ISO 639-2": "nno",
+          "ISO 639-3": "nno",
+          "ГОСТ 7.75-97 (лат.)": "nno",
+          "ГОСТ 7.75-97 (кир.)": "нно",
+          "langNum": "513"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Нюнорск (новонорвежский)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "oj",
+          "ISO 639-2": "oji",
+          "ISO 639-3": "oji",
+          "ГОСТ 7.75-97 (лат.)": "oji",
+          "ГОСТ 7.75-97 (кир.)": "одж",
+          "langNum": "515"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Оджибве"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "oc",
+          "ISO 639-2": "oci",
+          "ISO 639-3": "oci",
+          "ГОСТ 7.75-97 (лат.)": "oci",
+          "ГОСТ 7.75-97 (кир.)": "окс",
+          "langNum": "517"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Окситанский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "or",
+          "ISO 639-2": "ori",
+          "ISO 639-3": "ori",
+          "ГОСТ 7.75-97 (лат.)": "ori",
+          "ГОСТ 7.75-97 (кир.)": "ори",
+          "langNum": "520"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ория"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "om",
+          "ISO 639-2": "orm",
+          "ISO 639-3": "orm",
+          "ГОСТ 7.75-97 (лат.)": "orm",
+          "ГОСТ 7.75-97 (кир.)": "орм",
+          "langNum": "522"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Оромо"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "osa",
+          "ISO 639-3": "osa",
+          "ГОСТ 7.75-97 (лат.)": "osa",
+          "ГОСТ 7.75-97 (кир.)": "осе",
+          "langNum": "523"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Оседжи"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "os",
+          "ISO 639-2": "oss",
+          "ISO 639-3": "oss",
+          "ГОСТ 7.75-97 (лат.)": "oss",
+          "ГОСТ 7.75-97 (кир.)": "ост",
+          "langNum": "524"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Осетинский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "pau",
+          "ISO 639-3": "pau",
+          "ГОСТ 7.75-97 (лат.)": "pau",
+          "ГОСТ 7.75-97 (кир.)": "пал",
+          "langNum": "526"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Палау"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "pi",
+          "ISO 639-2": "pli",
+          "ISO 639-3": "pli",
+          "ГОСТ 7.75-97 (лат.)": "pli",
+          "ГОСТ 7.75-97 (кир.)": "пли",
+          "langNum": "527"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Пали"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "pam",
+          "ISO 639-3": "pam",
+          "ГОСТ 7.75-97 (лат.)": "pam",
+          "ГОСТ 7.75-97 (кир.)": "пам",
+          "langNum": "528"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Пампанга"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "pag",
+          "ISO 639-3": "pag",
+          "ГОСТ 7.75-97 (лат.)": "pag",
+          "ГОСТ 7.75-97 (кир.)": "паг",
+          "langNum": "529"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Пангасинан"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "pa",
+          "ISO 639-2": "pan",
+          "ISO 639-3": "pan",
+          "ГОСТ 7.75-97 (лат.)": "pan",
+          "ГОСТ 7.75-97 (кир.)": "пан",
+          "langNum": "530"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Пенджабский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "pap",
+          "ISO 639-3": "pap",
+          "ГОСТ 7.75-97 (лат.)": "pap",
+          "ГОСТ 7.75-97 (кир.)": "пап",
+          "langNum": "533"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Папьяменто"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "fa",
+          "ISO 639-2": "fas/per",
+          "ISO 639-3": "fas",
+          "ГОСТ 7.75-97 (лат.)": "fas/per",
+          "ГОСТ 7.75-97 (кир.)": "пер",
+          "langNum": "535"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Персидский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "pal",
+          "ISO 639-3": "pal",
+          "ГОСТ 7.75-97 (лат.)": "pal",
+          "ГОСТ 7.75-97 (кир.)": "пех",
+          "langNum": "537"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Пехлевийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "pl",
+          "ISO 639-2": "pol",
+          "ISO 639-3": "pol",
+          "ГОСТ 7.75-97 (лат.)": "pol",
+          "ГОСТ 7.75-97 (кир.)": "пол",
+          "langNum": "540"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Польский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "pon",
+          "ISO 639-3": "pon",
+          "ГОСТ 7.75-97 (лат.)": "pon",
+          "ГОСТ 7.75-97 (кир.)": "пон",
+          "langNum": "542"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Понапе"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "pt",
+          "ISO 639-2": "por",
+          "ISO 639-3": "por",
+          "ГОСТ 7.75-97 (лат.)": "роr",
+          "ГОСТ 7.75-97 (кир.)": "пор",
+          "langNum": "545"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Португальский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ps",
+          "ISO 639-2": "pus",
+          "ISO 639-3": "pus",
+          "ГОСТ 7.75-97 (лат.)": "pus",
+          "ГОСТ 7.75-97 (кир.)": "пуш",
+          "langNum": "550"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Пушту"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "raj",
+          "ISO 639-3": "raj",
+          "ГОСТ 7.75-97 (лат.)": "raj",
+          "ГОСТ 7.75-97 (кир.)": "рад",
+          "langNum": "555"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Раджастхани"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "mul",
+          "ISO 639-3": "mul",
+          "ГОСТ 7.75-97 (лат.)": "mul",
+          "ГОСТ 7.75-97 (кир.)": "мул",
+          "langNum": "556"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Разных семей языки"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "rar",
+          "ISO 639-3": "rar",
+          "ГОСТ 7.75-97 (лат.)": "rar",
+          "ГОСТ 7.75-97 (кир.)": "рар",
+          "langNum": "557"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Раротонга"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "rm",
+          "ISO 639-2": "roh",
+          "ISO 639-3": "roh",
+          "ГОСТ 7.75-97 (лат.)": "—",
+          "ГОСТ 7.75-97 (кир.)": "рет",
+          "langNum": "560"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ретороманский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "rw",
+          "ISO 639-2": "kin",
+          "ISO 639-3": "kin",
+          "ГОСТ 7.75-97 (лат.)": "kin",
+          "ГОСТ 7.75-97 (кир.)": "кин",
+          "langNum": "304"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Руанда"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ro",
+          "ISO 639-2": "ron/rum",
+          "ISO 639-3": "ron",
+          "ГОСТ 7.75-97 (лат.)": "ron/rum",
+          "ГОСТ 7.75-97 (кир.)": "рум",
+          "langNum": "565"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Румынский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "rn",
+          "ISO 639-2": "run",
+          "ISO 639-3": "run",
+          "ГОСТ 7.75-97 (лат.)": "run",
+          "ГОСТ 7.75-97 (кир.)": "рун",
+          "langNum": "567"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Рунди"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ru",
+          "ISO 639-2": "rus",
+          "ISO 639-3": "rus",
+          "ГОСТ 7.75-97 (лат.)": "rus",
+          "ГОСТ 7.75-97 (кир.)": "рус",
+          "langNum": "570"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Русский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "rut",
+          "ГОСТ 7.75-97 (лат.)": "—",
+          "ГОСТ 7.75-97 (кир.)": "рут",
+          "langNum": "—"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Рутульский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "smi",
+          "ISO 639-3": "smi",
+          "ГОСТ 7.75-97 (лат.)": "smi",
+          "ГОСТ 7.75-97 (кир.)": "саа",
+          "langNum": "575"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Саамский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "sam",
+          "ISO 639-3": "sam",
+          "ГОСТ 7.75-97 (лат.)": "sam",
+          "ГОСТ 7.75-97 (кир.)": "сам",
+          "langNum": "577"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Самаритянский арамейский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "sm",
+          "ISO 639-2": "smo",
+          "ISO 639-3": "smo",
+          "ГОСТ 7.75-97 (лат.)": "smo",
+          "ГОСТ 7.75-97 (кир.)": "смо",
+          "langNum": "578"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Самоанский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "sg",
+          "ISO 639-2": "sag",
+          "ISO 639-3": "sag",
+          "ГОСТ 7.75-97 (лат.)": "sag",
+          "ГОСТ 7.75-97 (кир.)": "саг",
+          "langNum": "579"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Санго"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "sad",
+          "ISO 639-3": "sad",
+          "ГОСТ 7.75-97 (лат.)": "sad",
+          "ГОСТ 7.75-97 (кир.)": "сад",
+          "langNum": "580"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Сандаве"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "sa",
+          "ISO 639-2": "san",
+          "ISO 639-3": "san",
+          "ГОСТ 7.75-97 (лат.)": "san",
+          "ГОСТ 7.75-97 (кир.)": "сан",
+          "langNum": "581"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Санскрит"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "zap",
+          "ISO 639-3": "zap",
+          "ГОСТ 7.75-97 (лат.)": "zap",
+          "ГОСТ 7.75-97 (кир.)": "сап",
+          "langNum": "582"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Сапотекский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "sc",
+          "ISO 639-2": "srd",
+          "ISO 639-3": "srd",
+          "ГОСТ 7.75-97 (лат.)": "srd",
+          "ГОСТ 7.75-97 (кир.)": "срд",
+          "langNum": "583"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Сардинский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ss",
+          "ISO 639-2": "ssw",
+          "ISO 639-3": "ssw",
+          "ГОСТ 7.75-97 (лат.)": "ssw",
+          "ГОСТ 7.75-97 (кир.)": "сва",
+          "langNum": "584"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Свази"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "ceb",
+          "ISO 639-3": "ceb",
+          "ГОСТ 7.75-97 (лат.)": "ceb",
+          "ГОСТ 7.75-97 (кир.)": "себ",
+          "langNum": "587"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Себуано"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "sel",
+          "ISO 639-3": "sel",
+          "ГОСТ 7.75-97 (лат.)": "sel",
+          "ГОСТ 7.75-97 (кир.)": "сел",
+          "langNum": "590"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Селькупский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "sr",
+          "ISO 639-2": "scc",
+          "ISO 639-3": "srp",
+          "ГОСТ 7.75-97 (лат.)": "—",
+          "ГОСТ 7.75-97 (кир.)": "—",
+          "langNum": "—"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Сербский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "srr",
+          "ISO 639-3": "srr",
+          "ГОСТ 7.75-97 (лат.)": "srr",
+          "ГОСТ 7.75-97 (кир.)": "срр",
+          "langNum": "596"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Серер"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "sid",
+          "ISO 639-3": "sid",
+          "ГОСТ 7.75-97 (лат.)": "sid",
+          "ГОСТ 7.75-97 (кир.)": "сид",
+          "langNum": "597"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Сидама"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "bla",
+          "ISO 639-3": "bla",
+          "ГОСТ 7.75-97 (лат.)": "bla",
+          "ГОСТ 7.75-97 (кир.)": "сик",
+          "langNum": "598"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Сиксика"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "si",
+          "ISO 639-2": "sin",
+          "ISO 639-3": "sin",
+          "ГОСТ 7.75-97 (лат.)": "sin",
+          "ГОСТ 7.75-97 (кир.)": "син",
+          "langNum": "599"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Сингальский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "sd",
+          "ISO 639-2": "snd",
+          "ISO 639-3": "snd",
+          "ГОСТ 7.75-97 (лат.)": "snd",
+          "ГОСТ 7.75-97 (кир.)": "снд",
+          "langNum": "600"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Синдхи"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "syr",
+          "ISO 639-3": "syr",
+          "ГОСТ 7.75-97 (лат.)": "syr",
+          "ГОСТ 7.75-97 (кир.)": "сир",
+          "langNum": "602"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Сирийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "sk",
+          "ISO 639-2": "slk/slo",
+          "ISO 639-3": "slk",
+          "ГОСТ 7.75-97 (лат.)": "slk/slo",
+          "ГОСТ 7.75-97 (кир.)": "сло",
+          "langNum": "605"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Словацкий"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "sl",
+          "ISO 639-2": "slv",
+          "ISO 639-3": "slv",
+          "ГОСТ 7.75-97 (лат.)": "slv",
+          "ГОСТ 7.75-97 (кир.)": "слв",
+          "langNum": "610"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Словенский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "sog",
+          "ISO 639-3": "sog",
+          "ГОСТ 7.75-97 (лат.)": "sog",
+          "ГОСТ 7.75-97 (кир.)": "сог",
+          "langNum": "613"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Согдийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "so",
+          "ISO 639-2": "som",
+          "ISO 639-3": "som",
+          "ГОСТ 7.75-97 (лат.)": "som",
+          "ГОСТ 7.75-97 (кир.)": "сом",
+          "langNum": "615"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Сомали"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "nso",
+          "ISO 639-3": "nso",
+          "ГОСТ 7.75-97 (лат.)": "nso",
+          "ГОСТ 7.75-97 (кир.)": "сос",
+          "langNum": "617"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Сото северный"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "st",
+          "ISO 639-2": "sot",
+          "ISO 639-3": "sot",
+          "ГОСТ 7.75-97 (лат.)": "sot",
+          "ГОСТ 7.75-97 (кир.)": "сот",
+          "langNum": "618"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Сото южный"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "enm",
+          "ISO 639-3": "enm",
+          "ГОСТ 7.75-97 (лат.)": "enm",
+          "ГОСТ 7.75-97 (кир.)": "сра",
+          "langNum": "619"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Среднеанглийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "gmh",
+          "ISO 639-3": "gmh",
+          "ГОСТ 7.75-97 (лат.)": "gmh",
+          "ГОСТ 7.75-97 (кир.)": "срн",
+          "langNum": "620"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Средневерхненемецкий"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "mga",
+          "ISO 639-3": "mga",
+          "ГОСТ 7.75-97 (лат.)": "mga",
+          "ГОСТ 7.75-97 (кир.)": "сеи",
+          "langNum": "621"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Среднеирландский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "frm",
+          "ISO 639-3": "frm",
+          "ГОСТ 7.75-97 (лат.)": "frm",
+          "ГОСТ 7.75-97 (кир.)": "срф",
+          "langNum": "622"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Среднефранцузский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "ang",
+          "ISO 639-3": "ang",
+          "ГОСТ 7.75-97 (лат.)": "ang",
+          "ГОСТ 7.75-97 (кир.)": "ста",
+          "langNum": "623"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Староанглийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "goh",
+          "ISO 639-3": "goh",
+          "ГОСТ 7.75-97 (лат.)": "goh",
+          "ГОСТ 7.75-97 (кир.)": "свн",
+          "langNum": "624"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Староверхненемецкий"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "sga",
+          "ISO 639-3": "sga",
+          "ГОСТ 7.75-97 (лат.)": "sga",
+          "ГОСТ 7.75-97 (кир.)": "сти",
+          "langNum": "625"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Староирландский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "non",
+          "ISO 639-3": "non",
+          "ГОСТ 7.75-97 (лат.)": "non",
+          "ГОСТ 7.75-97 (кир.)": "стн",
+          "langNum": "626"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Старонорвежский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "peo",
+          "ISO 639-3": "peo",
+          "ГОСТ 7.75-97 (лат.)": "peo",
+          "ГОСТ 7.75-97 (кир.)": "стп",
+          "langNum": "627"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Староперсидский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "pro",
+          "ISO 639-3": "pro",
+          "ГОСТ 7.75-97 (лат.)": "pro",
+          "ГОСТ 7.75-97 (кир.)": "спр",
+          "langNum": "628"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Старопровансальский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "ota",
+          "ISO 639-3": "ota",
+          "ГОСТ 7.75-97 (лат.)": "ota",
+          "ГОСТ 7.75-97 (кир.)": "стт",
+          "langNum": "629"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Старотурецкий"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "fro",
+          "ISO 639-3": "fro",
+          "ГОСТ 7.75-97 (лат.)": "fro",
+          "ГОСТ 7.75-97 (кир.)": "стф",
+          "langNum": "630"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Старофранцузский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "sw",
+          "ISO 639-2": "swa",
+          "ISO 639-3": "swa",
+          "ГОСТ 7.75-97 (лат.)": "swa",
+          "ГОСТ 7.75-97 (кир.)": "суа",
+          "langNum": "631"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Суахили"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "suk",
+          "ISO 639-3": "suk",
+          "ГОСТ 7.75-97 (лат.)": "suk",
+          "ГОСТ 7.75-97 (кир.)": "сук",
+          "langNum": "632"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Сукума"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "su",
+          "ISO 639-2": "sun",
+          "ISO 639-3": "sun",
+          "ГОСТ 7.75-97 (лат.)": "sun",
+          "ГОСТ 7.75-97 (кир.)": "сун",
+          "langNum": "633"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Сунданский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "sus",
+          "ISO 639-3": "sus",
+          "ГОСТ 7.75-97 (лат.)": "sus",
+          "ГОСТ 7.75-97 (кир.)": "сус",
+          "langNum": "634"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Сусу"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "tab",
+          "ГОСТ 7.75-97 (лат.)": "tab",
+          "ГОСТ 7.75-97 (кир.)": "таб",
+          "langNum": "635"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Табасаранский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "tl",
+          "ISO 639-2": "tgl",
+          "ISO 639-3": "tgl",
+          "ГОСТ 7.75-97 (лат.)": "tgl",
+          "ГОСТ 7.75-97 (кир.)": "таг",
+          "langNum": "636"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тагальский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "tg",
+          "ISO 639-2": "tgk",
+          "ISO 639-3": "tgk",
+          "ГОСТ 7.75-97 (лат.)": "tgk",
+          "ГОСТ 7.75-97 (кир.)": "тад",
+          "langNum": "640"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Таджикский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "th",
+          "ISO 639-2": "tha",
+          "ISO 639-3": "tha",
+          "ГОСТ 7.75-97 (лат.)": "tha",
+          "ГОСТ 7.75-97 (кир.)": "таи",
+          "langNum": "645"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тайский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ty",
+          "ISO 639-2": "tah",
+          "ISO 639-3": "tah",
+          "ГОСТ 7.75-97 (лат.)": "tah",
+          "ГОСТ 7.75-97 (кир.)": "тая",
+          "langNum": "647"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Таитянский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "tly",
+          "ГОСТ 7.75-97 (лат.)": "tal",
+          "ГОСТ 7.75-97 (кир.)": "тал",
+          "langNum": "650"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Талышский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "tmh",
+          "ISO 639-3": "tmh",
+          "ГОСТ 7.75-97 (лат.)": "tmh",
+          "ГОСТ 7.75-97 (кир.)": "тмш",
+          "langNum": "653"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тамашек"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ta",
+          "ISO 639-2": "tam",
+          "ISO 639-3": "tam",
+          "ГОСТ 7.75-97 (лат.)": "tam",
+          "ГОСТ 7.75-97 (кир.)": "там",
+          "langNum": "655"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тамильский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "tt",
+          "ISO 639-2": "tat",
+          "ISO 639-3": "tat",
+          "ГОСТ 7.75-97 (лат.)": "tat",
+          "ГОСТ 7.75-97 (кир.)": "тар",
+          "langNum": "660"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Татарский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "tw",
+          "ISO 639-2": "twi",
+          "ISO 639-3": "twi",
+          "ГОСТ 7.75-97 (лат.)": "twi",
+          "ГОСТ 7.75-97 (кир.)": "тви",
+          "langNum": "670"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тви"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "te",
+          "ISO 639-2": "tel",
+          "ISO 639-3": "tel",
+          "ГОСТ 7.75-97 (лат.)": "tel",
+          "ГОСТ 7.75-97 (кир.)": "тел",
+          "langNum": "675"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Телугу"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "tem",
+          "ISO 639-3": "tem",
+          "ГОСТ 7.75-97 (лат.)": "tem",
+          "ГОСТ 7.75-97 (кир.)": "тем",
+          "langNum": "677"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Темне"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "ter",
+          "ISO 639-3": "ter",
+          "ГОСТ 7.75-97 (лат.)": "ter",
+          "ГОСТ 7.75-97 (кир.)": "тер",
+          "langNum": "678"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Терено"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "bo",
+          "ISO 639-2": "bod/tib",
+          "ISO 639-3": "bod",
+          "ГОСТ 7.75-97 (лат.)": "bod/tib",
+          "ГОСТ 7.75-97 (кир.)": "тиб",
+          "langNum": "680"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тибетский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "tiw",
+          "ISO 639-3": "tiw",
+          "ГОСТ 7.75-97 (лат.)": "tiv",
+          "ГОСТ 7.75-97 (кир.)": "тив",
+          "langNum": "681"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тиви"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "tig",
+          "ISO 639-3": "tig",
+          "ГОСТ 7.75-97 (лат.)": "tig",
+          "ГОСТ 7.75-97 (кир.)": "тиг",
+          "langNum": "682"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тигре"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ti",
+          "ISO 639-2": "tir",
+          "ISO 639-3": "tir",
+          "ГОСТ 7.75-97 (лат.)": "tir",
+          "ГОСТ 7.75-97 (кир.)": "тир",
+          "langNum": "683"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тигринья"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "tli",
+          "ISO 639-3": "tli",
+          "ГОСТ 7.75-97 (лат.)": "tli",
+          "ГОСТ 7.75-97 (кир.)": "тли",
+          "langNum": "684"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тлингит"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "tog",
+          "ISO 639-3": "tog",
+          "ГОСТ 7.75-97 (лат.)": "tog",
+          "ГОСТ 7.75-97 (кир.)": "тог",
+          "langNum": "685"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тонга (Ньяса)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "to",
+          "ISO 639-2": "ton",
+          "ISO 639-3": "ton",
+          "ГОСТ 7.75-97 (лат.)": "ton",
+          "ГОСТ 7.75-97 (кир.)": "тон",
+          "langNum": "686"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тонганский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "chk",
+          "ГОСТ 7.75-97 (лат.)": "tru",
+          "ГОСТ 7.75-97 (кир.)": "тру",
+          "langNum": "687"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Трукский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "tn",
+          "ISO 639-2": "tsn",
+          "ISO 639-3": "tsn",
+          "ГОСТ 7.75-97 (лат.)": "tsn",
+          "ГОСТ 7.75-97 (кир.)": "тсн",
+          "langNum": "688"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тсвана"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ts",
+          "ISO 639-2": "tso",
+          "ISO 639-3": "tso",
+          "ГОСТ 7.75-97 (лат.)": "tso",
+          "ГОСТ 7.75-97 (кир.)": "тсо",
+          "langNum": "689"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тсонга"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "tyv",
+          "ISO 639-3": "tyv",
+          "ГОСТ 7.75-97 (лат.)": "tyv",
+          "ГОСТ 7.75-97 (кир.)": "тув",
+          "langNum": "690"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тувинский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "tum",
+          "ISO 639-3": "tum",
+          "ГОСТ 7.75-97 (лат.)": "tum",
+          "ГОСТ 7.75-97 (кир.)": "тум",
+          "langNum": "692"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Тумбука"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "tr",
+          "ISO 639-2": "tur",
+          "ISO 639-3": "tur",
+          "ГОСТ 7.75-97 (лат.)": "tur",
+          "ГОСТ 7.75-97 (кир.)": "тур",
+          "langNum": "693"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Турецкий"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "tk",
+          "ISO 639-2": "tuk",
+          "ISO 639-3": "tuk",
+          "ГОСТ 7.75-97 (лат.)": "tuk",
+          "ГОСТ 7.75-97 (кир.)": "тук",
+          "langNum": "695"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Туркменский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "uga",
+          "ISO 639-3": "uga",
+          "ГОСТ 7.75-97 (лат.)": "uga",
+          "ГОСТ 7.75-97 (кир.)": "уга",
+          "langNum": "697"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Угаритский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "udm",
+          "ISO 639-3": "udm",
+          "ГОСТ 7.75-97 (лат.)": "vot",
+          "ГОСТ 7.75-97 (кир.)": "удм",
+          "langNum": "700"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Удмуртский (вотяцкий)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "ude",
+          "ГОСТ 7.75-97 (лат.)": "ude",
+          "ГОСТ 7.75-97 (кир.)": "удэ",
+          "langNum": "705"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Удэгейский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "uz",
+          "ISO 639-2": "uzb",
+          "ISO 639-3": "uzb",
+          "ГОСТ 7.75-97 (лат.)": "uzb",
+          "ГОСТ 7.75-97 (кир.)": "узб",
+          "langNum": "710"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Узбекский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ug",
+          "ISO 639-2": "uig",
+          "ISO 639-3": "uig",
+          "ГОСТ 7.75-97 (лат.)": "uig",
+          "ГОСТ 7.75-97 (кир.)": "уйг",
+          "langNum": "715"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Уйгурский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "uk",
+          "ISO 639-2": "ukr",
+          "ISO 639-3": "ukr",
+          "ГОСТ 7.75-97 (лат.)": "ukr",
+          "ГОСТ 7.75-97 (кир.)": "укр",
+          "langNum": "720"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Украинский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "ulc",
+          "ГОСТ 7.75-97 (лат.)": "ulc",
+          "ГОСТ 7.75-97 (кир.)": "уль",
+          "langNum": "725"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Ульчский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "umb",
+          "ISO 639-3": "umb",
+          "ГОСТ 7.75-97 (лат.)": "umb",
+          "ГОСТ 7.75-97 (кир.)": "умб",
+          "langNum": "727"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Умбунду"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ur",
+          "ISO 639-2": "urd",
+          "ISO 639-3": "urd",
+          "ГОСТ 7.75-97 (лат.)": "urd",
+          "ГОСТ 7.75-97 (кир.)": "урд",
+          "langNum": "730"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Урду"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "fan",
+          "ISO 639-3": "fan",
+          "ГОСТ 7.75-97 (лат.)": "fan",
+          "ГОСТ 7.75-97 (кир.)": "фан",
+          "langNum": "732"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Фанг"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "fat",
+          "ISO 639-3": "fat",
+          "ГОСТ 7.75-97 (лат.)": "fat",
+          "ГОСТ 7.75-97 (кир.)": "фат",
+          "langNum": "733"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Фанти"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "fo",
+          "ISO 639-2": "fao",
+          "ISO 639-3": "fao",
+          "ГОСТ 7.75-97 (лат.)": "fao",
+          "ГОСТ 7.75-97 (кир.)": "фар",
+          "langNum": "735"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Фарерский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "fj",
+          "ISO 639-2": "fij",
+          "ISO 639-3": "fij",
+          "ГОСТ 7.75-97 (лат.)": "fij",
+          "ГОСТ 7.75-97 (кир.)": "фид",
+          "langNum": "737"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Фиджи"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "fl",
+          "ISO 639-2": "fil",
+          "ISO 639-3": "fil",
+          "ГОСТ 7.75-97 (лат.)": "tgl",
+          "ГОСТ 7.75-97 (кир.)": "таг",
+          "langNum": "636"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Филиппинский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "phn",
+          "ISO 639-3": "phn",
+          "ГОСТ 7.75-97 (лат.)": "phn",
+          "ГОСТ 7.75-97 (кир.)": "фик",
+          "langNum": "738"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Финикийский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "fi",
+          "ISO 639-2": "fin",
+          "ISO 639-3": "fin",
+          "ГОСТ 7.75-97 (лат.)": "fin",
+          "ГОСТ 7.75-97 (кир.)": "фин",
+          "langNum": "740"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Финский (Suomi)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "fon",
+          "ISO 639-3": "fon",
+          "ГОСТ 7.75-97 (лат.)": "fon",
+          "ГОСТ 7.75-97 (кир.)": "фон",
+          "langNum": "743"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Фон"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "fr",
+          "ISO 639-2": "fra/fre",
+          "ISO 639-3": "fra",
+          "ГОСТ 7.75-97 (лат.)": "fra/fre",
+          "ГОСТ 7.75-97 (кир.)": "фра",
+          "langNum": "745"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Французский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "fy",
+          "ISO 639-2": "fry",
+          "ISO 639-3": "fry",
+          "ГОСТ 7.75-97 (лат.)": "fry",
+          "ГОСТ 7.75-97 (кир.)": "фри",
+          "langNum": "750"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Фризский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ff",
+          "ISO 639-2": "ful",
+          "ISO 639-3": "ful",
+          "ГОСТ 7.75-97 (лат.)": "ful",
+          "ГОСТ 7.75-97 (кир.)": "фул",
+          "langNum": "752"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Фулах"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "hai",
+          "ISO 639-3": "hai",
+          "ГОСТ 7.75-97 (лат.)": "hai",
+          "ГОСТ 7.75-97 (кир.)": "хай",
+          "langNum": "753"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Хайда"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "kjh",
+          "ГОСТ 7.75-97 (лат.)": "khk",
+          "ГОСТ 7.75-97 (кир.)": "хак",
+          "langNum": "755"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Хакасский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "kca",
+          "ГОСТ 7.75-97 (лат.)": "ost",
+          "ГОСТ 7.75-97 (кир.)": "хан",
+          "langNum": "760"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Хантыйский (остяцкий)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ha",
+          "ISO 639-2": "hau",
+          "ISO 639-3": "hau",
+          "ГОСТ 7.75-97 (лат.)": "hau",
+          "ГОСТ 7.75-97 (кир.)": "хау",
+          "langNum": "761"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Хауса"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "hil",
+          "ISO 639-3": "hil",
+          "ГОСТ 7.75-97 (лат.)": "hil",
+          "ГОСТ 7.75-97 (кир.)": "хил",
+          "langNum": "762"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Хилигайнон"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "hi",
+          "ISO 639-2": "hin",
+          "ISO 639-3": "hin",
+          "ГОСТ 7.75-97 (лат.)": "hin",
+          "ГОСТ 7.75-97 (кир.)": "хин",
+          "langNum": "770"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Хинди"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ho",
+          "ISO 639-2": "hmo",
+          "ISO 639-3": "hmo",
+          "ГОСТ 7.75-97 (лат.)": "hmo",
+          "ГОСТ 7.75-97 (кир.)": "хмо",
+          "langNum": "772"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Хиримоту"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "hr",
+          "ISO 639-2": "hrv/scr",
+          "ISO 639-3": "hrv",
+          "ГОСТ 7.75-97 (лат.)": "—",
+          "ГОСТ 7.75-97 (кир.)": "—",
+          "langNum": "—"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Хорватский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "kho",
+          "ISO 639-3": "kho",
+          "ГОСТ 7.75-97 (лат.)": "kho",
+          "ГОСТ 7.75-97 (кир.)": "хот",
+          "langNum": "773"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Хотанский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "hup",
+          "ISO 639-3": "hup",
+          "ГОСТ 7.75-97 (лат.)": "hup",
+          "ГОСТ 7.75-97 (кир.)": "хуп",
+          "langNum": "774"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Хупа"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "tkr",
+          "ГОСТ 7.75-97 (лат.)": "tsa",
+          "ГОСТ 7.75-97 (кир.)": "цах",
+          "langNum": "775"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Цахурский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "cu",
+          "ISO 639-2": "chu",
+          "ISO 639-3": "chu",
+          "ГОСТ 7.75-97 (лат.)": "chu",
+          "ГОСТ 7.75-97 (кир.)": "цер",
+          "langNum": "777"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Церковнославянский (Старославянский)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "tsi",
+          "ISO 639-3": "tsi",
+          "ГОСТ 7.75-97 (лат.)": "tsi",
+          "ГОСТ 7.75-97 (кир.)": "цим",
+          "langNum": "778"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Цимшиан"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "rom",
+          "ISO 639-3": "rom",
+          "ГОСТ 7.75-97 (лат.)": "rom",
+          "ГОСТ 7.75-97 (кир.)": "цыг",
+          "langNum": "780"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Цыганский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "chg",
+          "ISO 639-3": "chg",
+          "ГОСТ 7.75-97 (лат.)": "chg",
+          "ГОСТ 7.75-97 (кир.)": "чаг",
+          "langNum": "781"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Чагатайский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ch",
+          "ISO 639-2": "cha",
+          "ISO 639-3": "cha",
+          "ГОСТ 7.75-97 (лат.)": "cha",
+          "ГОСТ 7.75-97 (кир.)": "чам",
+          "langNum": "782"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Чаморро"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "chy",
+          "ISO 639-3": "chy",
+          "ГОСТ 7.75-97 (лат.)": "chy",
+          "ГОСТ 7.75-97 (кир.)": "чей",
+          "langNum": "783"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Шайенн (Чейенн)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "chr",
+          "ISO 639-3": "chr",
+          "ГОСТ 7.75-97 (лат.)": "chr",
+          "ГОСТ 7.75-97 (кир.)": "чер",
+          "langNum": "784"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Чероки"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ce",
+          "ISO 639-2": "che",
+          "ISO 639-3": "che",
+          "ГОСТ 7.75-97 (лат.)": "che",
+          "ГОСТ 7.75-97 (кир.)": "чеч",
+          "langNum": "785"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Чеченский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "cs",
+          "ISO 639-2": "ces/cze",
+          "ISO 639-3": "ces",
+          "ГОСТ 7.75-97 (лат.)": "ces/cze",
+          "ГОСТ 7.75-97 (кир.)": "чеш",
+          "langNum": "790"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Чешский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "za",
+          "ISO 639-2": "zha",
+          "ISO 639-3": "zha",
+          "ГОСТ 7.75-97 (лат.)": "zha",
+          "ГОСТ 7.75-97 (кир.)": "чжу",
+          "langNum": "791"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Чжуанский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "chb",
+          "ISO 639-3": "chb",
+          "ГОСТ 7.75-97 (лат.)": "chb",
+          "ГОСТ 7.75-97 (кир.)": "чиб",
+          "langNum": "792"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Чибча"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "chn",
+          "ISO 639-3": "chn",
+          "ГОСТ 7.75-97 (лат.)": "chn",
+          "ГОСТ 7.75-97 (кир.)": "чин",
+          "langNum": "793"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Чинук жаргон"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "cho",
+          "ISO 639-3": "cho",
+          "ГОСТ 7.75-97 (лат.)": "cho",
+          "ГОСТ 7.75-97 (кир.)": "чок",
+          "langNum": "794"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Чоктав"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "cv",
+          "ISO 639-2": "chv",
+          "ISO 639-3": "chv",
+          "ГОСТ 7.75-97 (лат.)": "chv",
+          "ГОСТ 7.75-97 (кир.)": "чув",
+          "langNum": "795"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Чувашский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "ckt",
+          "ГОСТ 7.75-97 (лат.)": "chk",
+          "ГОСТ 7.75-97 (кир.)": "чук",
+          "langNum": "800"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Чукотский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "shn",
+          "ISO 639-3": "shn",
+          "ГОСТ 7.75-97 (лат.)": "shn",
+          "ГОСТ 7.75-97 (кир.)": "шан",
+          "langNum": "803"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Шанский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "sv",
+          "ISO 639-2": "sve/swe",
+          "ISO 639-3": "swe",
+          "ГОСТ 7.75-97 (лат.)": "sve/swe",
+          "ГОСТ 7.75-97 (кир.)": "шве",
+          "langNum": "805"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Шведский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "sn",
+          "ISO 639-2": "sna",
+          "ISO 639-3": "sna",
+          "ГОСТ 7.75-97 (лат.)": "sna",
+          "ГОСТ 7.75-97 (кир.)": "шон",
+          "langNum": "807"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Шона"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "cjs",
+          "ГОСТ 7.75-97 (лат.)": "sho",
+          "ГОСТ 7.75-97 (кир.)": "шор",
+          "langNum": "810"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Шорский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "sco",
+          "ISO 639-3": "sco",
+          "ГОСТ 7.75-97 (лат.)": "—",
+          "ГОСТ 7.75-97 (кир.)": "—",
+          "langNum": "—"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Шотландский (англо-шотландский)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "sgh",
+          "ГОСТ 7.75-97 (лат.)": "shu",
+          "ГОСТ 7.75-97 (кир.)": "шуг",
+          "langNum": "815"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Шугнанский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "sux",
+          "ISO 639-3": "sux",
+          "ГОСТ 7.75-97 (лат.)": "sux",
+          "ГОСТ 7.75-97 (кир.)": "шум",
+          "langNum": "817"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Шумерский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ee",
+          "ISO 639-2": "ewe",
+          "ISO 639-3": "ewe",
+          "ГОСТ 7.75-97 (лат.)": "ewe",
+          "ГОСТ 7.75-97 (кир.)": "эве",
+          "langNum": "820"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Эве"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "evn",
+          "ГОСТ 7.75-97 (лат.)": "tum",
+          "ГОСТ 7.75-97 (кир.)": "эвк",
+          "langNum": "825"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Эвенкийский (тунгусский)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "—",
+          "ISO 639-3": "eve",
+          "ГОСТ 7.75-97 (лат.)": "lau",
+          "ГОСТ 7.75-97 (кир.)": "эвн",
+          "langNum": "830"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Эвенский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "ewo",
+          "ISO 639-3": "ewo",
+          "ГОСТ 7.75-97 (лат.)": "ewo",
+          "ГОСТ 7.75-97 (кир.)": "эво",
+          "langNum": "832"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Эвондо"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "eka",
+          "ISO 639-3": "eka",
+          "ГОСТ 7.75-97 (лат.)": "eka",
+          "ГОСТ 7.75-97 (кир.)": "эка",
+          "langNum": "833"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Экаджук"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "elx",
+          "ISO 639-3": "elx",
+          "ГОСТ 7.75-97 (лат.)": "elx",
+          "ГОСТ 7.75-97 (кир.)": "эла",
+          "langNum": "834"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Эламский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "myv",
+          "ISO 639-3": "myv",
+          "ГОСТ 7.75-97 (лат.)": "erz",
+          "ГОСТ 7.75-97 (кир.)": "эрз",
+          "langNum": "835"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Эрзянский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "eo",
+          "ISO 639-2": "epo",
+          "ISO 639-3": "epo",
+          "ГОСТ 7.75-97 (лат.)": "epo",
+          "ГОСТ 7.75-97 (кир.)": "эсп",
+          "langNum": "845"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Эсперанто"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "et",
+          "ISO 639-2": "est",
+          "ISO 639-3": "est",
+          "ГОСТ 7.75-97 (лат.)": "est",
+          "ГОСТ 7.75-97 (кир.)": "эст",
+          "langNum": "850"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Эстонский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "efi",
+          "ISO 639-3": "efi",
+          "ГОСТ 7.75-97 (лат.)": "efi",
+          "ГОСТ 7.75-97 (кир.)": "эфи",
+          "langNum": "852"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Эфик"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "jv",
+          "ISO 639-2": "jav/jaw",
+          "ISO 639-3": "jav",
+          "ГОСТ 7.75-97 (лат.)": "jav/jaw",
+          "ГОСТ 7.75-97 (кир.)": "ява",
+          "langNum": "860"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Яванский"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "sah",
+          "ISO 639-3": "sah",
+          "ГОСТ 7.75-97 (лат.)": "sah",
+          "ГОСТ 7.75-97 (кир.)": "яку",
+          "langNum": "865"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Якутский (Саха)"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "yao",
+          "ISO 639-3": "yao",
+          "ГОСТ 7.75-97 (лат.)": "yao",
+          "ГОСТ 7.75-97 (кир.)": "яоа",
+          "langNum": "867"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Яо"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "—",
+          "ISO 639-2": "yap",
+          "ISO 639-3": "yap",
+          "ГОСТ 7.75-97 (лат.)": "yap",
+          "ГОСТ 7.75-97 (кир.)": "япа",
+          "langNum": "868"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Яп"
+        }
+      }
+    },
+    {
+      "lang": {
+        "alphabet": {},
+        "langCode": {
+          "ISO 639-1": "ja",
+          "ISO 639-2": "jpn",
+          "ISO 639-3": "jpn",
+          "ГОСТ 7.75-97 (лат.)": "jpn",
+          "ГОСТ 7.75-97 (кир.)": "япо",
+          "langNum": "870"
+        },
+        "characterSet": {},
+        "langName": {
+          "rus": "Японский"
+        }
+      }
+    }
+  ]
+}
